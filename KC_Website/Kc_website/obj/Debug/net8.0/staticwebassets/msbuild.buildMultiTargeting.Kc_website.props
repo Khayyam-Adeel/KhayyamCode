@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kc_website.props" />
+</Project>
