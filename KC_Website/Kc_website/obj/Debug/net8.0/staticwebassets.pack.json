@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\Kc_website.bundle.scp.css"
     },
     {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\css\\noscript.css",
+      "PackagePath": "staticwebassets\\css\\noscript.css"
+    },
+    {
       "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -13,8 +25,96 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\dark-bl.svg",
+      "PackagePath": "staticwebassets\\images\\dark-bl.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\dark-br.svg",
+      "PackagePath": "staticwebassets\\images\\dark-br.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\dark-tl.svg",
+      "PackagePath": "staticwebassets\\images\\dark-tl.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\dark-tr.svg",
+      "PackagePath": "staticwebassets\\images\\dark-tr.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\light-bl.svg",
+      "PackagePath": "staticwebassets\\images\\light-bl.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\light-br.svg",
+      "PackagePath": "staticwebassets\\images\\light-br.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\light-tl.svg",
+      "PackagePath": "staticwebassets\\images\\light-tl.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\light-tr.svg",
+      "PackagePath": "staticwebassets\\images\\light-tr.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\overlay.png",
+      "PackagePath": "staticwebassets\\images\\overlay.png"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\pic01.jpg",
+      "PackagePath": "staticwebassets\\images\\pic01.jpg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\pic02.jpg",
+      "PackagePath": "staticwebassets\\images\\pic02.jpg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\pic03.jpg",
+      "PackagePath": "staticwebassets\\images\\pic03.jpg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\images\\pic04.jpg",
+      "PackagePath": "staticwebassets\\images\\pic04.jpg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\js\\breakpoints.min.js",
+      "PackagePath": "staticwebassets\\js\\breakpoints.min.js"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\js\\browser.min.js",
+      "PackagePath": "staticwebassets\\js\\browser.min.js"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\js\\jquery.dropotron.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dropotron.min.js"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\js\\jquery.scrollex.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollex.min.js"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\js\\jquery.scrolly.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrolly.min.js"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
       "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\js\\util.js",
+      "PackagePath": "staticwebassets\\js\\util.js"
     },
     {
       "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -243,6 +343,98 @@
     {
       "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\sass\\libs\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\sass\\libs\\_functions.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\sass\\libs\\_html-grid.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_html-grid.scss"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\sass\\libs\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\sass\\libs\\_vars.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_vars.scss"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\sass\\libs\\_vendor.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_vendor.scss"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\sass\\main.scss"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\sass\\noscript.scss",
+      "PackagePath": "staticwebassets\\sass\\noscript.scss"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Development\\.net\\KhayyamCode\\KC_Website\\Kc_website\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Kc_website.Microsoft.AspNetCore.StaticWebAssets.props",
